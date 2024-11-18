@@ -9,6 +9,8 @@ Using Python and Pandas, I explored various factors that impact customer retenti
 
 https://lnkd.in/g3Bu2uAm
 
+#### [Complete Report in Pdf](https://github.com/Abid-Aziz/Churn-Analysis-with-Python/blob/main/Telco%20Customer%20Analysis%20Report.pdf)
+
 ### Tools
 
 - Python
